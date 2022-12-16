@@ -4,6 +4,7 @@
 
 /Odx.Dataverse.Demo.Context/bin/Debug
 /Odx.Dataverse.Demo.Context/obj/Debug
-/.vs/Odx.Datavese.Demo/v17
 /packages
 /Odx.Dataverse.Demo.Context/Odx.Dataverse.Demo.Context.csproj.user
+/.vs/Odx.Datavese.Demo/**
+/.vs/ProjectEvaluation
