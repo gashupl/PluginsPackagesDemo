@@ -13,7 +13,7 @@ namespace Odx.Dataverse.Demo.Plugins
 
         }
 
-        protected override void ExecuteCdsPlugin(ILocalPluginContext localPluginContext)
+        protected override void ExecuteDataversePlugin(ILocalPluginContext localPluginContext)
         {
             if (localPluginContext == null)
             {
